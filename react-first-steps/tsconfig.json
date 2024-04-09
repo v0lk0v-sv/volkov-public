@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        "esModuleInterop": true,
+        "lib": ["es2017", "es2019", "dom"],
+        "target": "es6",
+        "moduleResolution": "node"
+    }
+}

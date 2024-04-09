@@ -1,0 +1,9 @@
+.sidebarRow {
+  font-size: 14px;
+}
+
+.editButton {
+  position: absolute !important;
+  right: -4px;
+  top: -2px;
+}

@@ -1,0 +1,11 @@
+.formInput {
+  padding-bottom: 8px;
+}
+
+.actionButton {
+    display: flex;
+}
+
+.actionButton > :first-child {
+    margin-right: 8px;
+}
